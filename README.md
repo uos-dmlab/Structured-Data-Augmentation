@@ -6,4 +6,6 @@ This study aims to solve the problem of class imbalance in numerical data by usi
 
 
 
-## Ver2. Balanced Augmentation of Mixed type Tabular data => 연구 진행중
+## Ver2. Balanced Augmentation of Mixed type Tabular data 
+
+(연구 진행중)
