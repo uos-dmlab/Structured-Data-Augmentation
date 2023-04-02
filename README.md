@@ -6,6 +6,5 @@ This study aims to solve the problem of class imbalance in numerical data by usi
 
 
 
-## Ver2. Balanced Augmentation of Mixed type Tabular data 
-
+## Ver2. BAMT-GAN:  A Balanced Data Augmentation Techniqe for Tabular Data
 (연구 진행중)
