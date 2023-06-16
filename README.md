@@ -11,7 +11,7 @@ This study aims to solve the problem of class imbalance in numerical data by usi
 This paper presents BAMTGAN, a novel data augmentation technique that addresses the class imbalance problem and prevents mode collapse by utilizing a modified DCGAN model and a new similarity loss to generate diverse and realistic tabular data. BAMTGAN encodes each column to produce a feature map for each record, which is then converted back to its original tabular form an intermediate image format. Experimental results demonstrate that BAMTGAN provides a more substantial improvement in developing high-quality predictive models than existing augmentation methods.
 
 
-## V.2.1. BAMT-GAN:  A Balanced Data Augmentation Techniqe for Tabular Data
+## V2.1. BAMT-GAN:  A Balanced Data Augmentation Techniqe for Tabular Data
 
 In this paper, we propose a novel method, BAMT-GAN (Balanced Augmentation for Mixed Tabular GAN), aimed at enhancing the quality of data through augmentation, thereby increasing the volume of reliable training data for model building. This technique caters specifically to augmenting mixed data, inclusive of both numeric and categorical columns. 
 The BAMT-GAN integrates generative models, clustering, and oversampling techniques to balance data. The unique features of our approach involve 'Record Clustering' where data bearing similar features are clustered and diversified through oversampling. 'Data Generation' employs a CNN-based GAN model to train table data, generating novel data. In 'Classification', a myriad of classification algorithms is amalgamated to derive accurate predictive values. Lastly, in 'Augmentation', stratified sampling is leveraged to construct a balanced dataset. 
