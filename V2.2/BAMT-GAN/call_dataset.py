@@ -62,5 +62,6 @@ def call_dataset(dataset):
             "label": label,
             "df_raw": df_raw,
             "record_clustering_path": record_clustering_path,
-            "gan_path": gan_path
+            "gan_path": gan_path,
+            "name":dataset 
       }
