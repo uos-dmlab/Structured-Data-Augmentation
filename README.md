@@ -2,7 +2,7 @@
 
 ## D-VAE : Automatic Augmentation Technique of an Autoencoder-based Numerical Training Data
 
-D-VAE(Automatic Augmentation Technique of an Autoencoder-based Numerical Training Data)_WatePotability data.ipynb is an example notebook for training D-VAE with Diabetes, Water_potability, Wdbc dataset.
+The D-VAE(Automatic Augmentation Technique of an Autoencoder-based Numerical Training Data)_WaterPotability data.ipynb is a Jupyter notebook that serves as an example for training the D-VAE model. This notebook showcases training with Diabetes, Water_Potability, and Wdbc datasets.
 
 
 paper : https://www.earticle.net/Article/A419589
@@ -14,8 +14,7 @@ paper : https://ieeexplore.ieee.org/document/10020487/
 
 ## BAMT-GAN_V1:  A Balanced Data Augmentation Techniqe for Tabular Data
 
-Experiment_example.ipynb is an example notebook for training BAMTGAN_V1 with Adult dataset.
-
+The BAMT-GAN_V1.ipynb is a Jupyter notebook providing an example of training the BAMTGAN_V1 model. This example includes training with Adult dataset.
 
 paper : Not Yet Published
 
@@ -24,7 +23,7 @@ paper : Not Yet Published
 ## BAMT-GAN_V2:  A Balanced Data Augmentation Techniqe for Tabular Data
 
 
-BAMT-GAN.ipynb is an example notebook for training BAMTGAN_V2 with Adult,Bank,Car,Chrun,Credit-screening,Diabetes,Online,Tox21 dataset.
+The BAMT-GAN_V2.ipynb is a Jupyter notebook providing an example of training the BAMTGAN_V2 model. This example includes training on various datasets including Adult, Bank, Car, Churn, Credit-Screening, Diabetes, Online, and Tox21.
 
 
 paper : Not Yet Published
