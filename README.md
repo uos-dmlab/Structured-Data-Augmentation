@@ -14,7 +14,7 @@ paper : https://ieeexplore.ieee.org/document/10020487/
 
 ## BAMT-GAN_V1:  A Balanced Data Augmentation Techniqe for Tabular Data
 
-The BAMT-GAN_V1.ipynb is a Jupyter notebook providing an example of training the BAMTGAN_V1 model. This example includes training with Adult dataset.
+The BAMT-GAN_V1.ipynb is a Jupyter notebook providing an example of training the BAMTGAN_V1 model. This version includes training with Adult dataset.
 
 paper : Not Yet Published
 
@@ -23,7 +23,7 @@ paper : Not Yet Published
 ## BAMT-GAN_V2:  A Balanced Data Augmentation Techniqe for Tabular Data
 
 
-The BAMT-GAN_V2.ipynb is a Jupyter notebook providing an example of training the BAMTGAN_V2 model. This example includes training on various datasets including Adult, Bank, Car, Churn, Credit-Screening, Diabetes, Online, and Tox21.
+The BAMT-GAN_V2.ipynb is a Jupyter notebook providing an example of training the BAMTGAN_V2 model. This version includes training on various datasets including Adult, Bank, Car, Churn, Credit-Screening, Diabetes, Online, and Tox21 datasets.
 
 
 paper : Not Yet Published
