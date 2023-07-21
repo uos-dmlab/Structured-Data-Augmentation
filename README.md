@@ -2,7 +2,7 @@
 
 ## D-VAE : Automatic Augmentation Technique of an Autoencoder-based Numerical Training Data
 
-The D-VAE(Automatic Augmentation Technique of an Autoencoder-based Numerical Training Data)_WaterPotability data.ipynb is a Jupyter notebook that serves as an example for training the D-VAE model. This notebook showcases training with Diabetes, Water_Potability, and Wdbc datasets.
+The D-VAE(Automatic Augmentation Technique of an Autoencoder-based Numerical Training Data)_WaterPotability data.ipynb is a Jupyter notebook that serves as an example for training the D-VAE model. This notebook demonstrates training with Diabetes, Water_Potability, and Wdbc datasets.
 
 
 paper : https://www.earticle.net/Article/A419589
