@@ -8,7 +8,7 @@ The D-VAE(Automatic Augmentation Technique of an Autoencoder-based Numerical Tra
 paper : https://www.earticle.net/Article/A419589
 
 
-paper : https://ieeexplore.ieee.org/document/10020487/
+paper : https://ieeexplore.ieee.org/document/10020487
 
 
 
@@ -16,7 +16,7 @@ paper : https://ieeexplore.ieee.org/document/10020487/
 
 The BAMT-GAN_V1.ipynb is a Jupyter notebook providing an example of training the BAMTGAN_V1 model. This version includes training with Adult dataset.
 
-paper : Not Yet Published
+paper : https://ieeexplore.ieee.org/document/10179533
 
 
 
